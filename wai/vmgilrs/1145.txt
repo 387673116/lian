@@ -1,9 +1,0 @@
-/images/1145/1.jpg
-/images/1145/2.jpg
-/images/1145/3.jpg
-/images/1145/4.jpg
-/images/1145/5.jpg
-/images/1145/6.jpg
-/images/1145/7.jpg
-/images/1145/8.jpg
-/images/1145/9.jpg

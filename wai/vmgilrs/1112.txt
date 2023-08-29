@@ -1,6 +1,0 @@
-/images/1112/1.jpg
-/images/1112/2.jpg
-/images/1112/3.jpg
-/images/1112/4.jpg
-/images/1112/5.jpg
-/images/1112/6.jpg

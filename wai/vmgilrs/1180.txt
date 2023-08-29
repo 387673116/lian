@@ -1,8 +1,0 @@
-/images/1180/1.jpg
-/images/1180/2.jpg
-/images/1180/3.jpg
-/images/1180/4.jpg
-/images/1180/5.jpg
-/images/1180/6.jpg
-/images/1180/7.jpg
-/images/1180/8.jpg

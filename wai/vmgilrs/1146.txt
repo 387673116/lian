@@ -1,9 +1,0 @@
-/images/1146/1.jpg
-/images/1146/2.jpg
-/images/1146/3.jpg
-/images/1146/4.jpg
-/images/1146/5.jpg
-/images/1146/6.jpg
-/images/1146/7.jpg
-/images/1146/8.jpg
-/images/1146/9.jpg

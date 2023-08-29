@@ -1,9 +1,0 @@
-/images/1165/1.jpg
-/images/1165/2.jpg
-/images/1165/3.jpg
-/images/1165/4.jpg
-/images/1165/5.jpg
-/images/1165/6.jpg
-/images/1165/7.jpg
-/images/1165/8.jpg
-/images/1165/9.jpg

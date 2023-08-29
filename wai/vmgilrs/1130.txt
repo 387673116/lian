@@ -1,9 +1,0 @@
-/images/1130/1.jpg
-/images/1130/2.jpg
-/images/1130/3.jpg
-/images/1130/4.jpg
-/images/1130/5.jpg
-/images/1130/6.jpg
-/images/1130/7.jpg
-/images/1130/8.jpg
-/images/1130/9.jpg
